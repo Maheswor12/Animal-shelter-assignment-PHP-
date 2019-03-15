@@ -1,0 +1,55 @@
+.border_Admin{
+		margin: 52px 0px 0px 54px;
+		width: 485px;
+		text-align: center;
+		border: 5px solid #0000ff;
+		height: 465px;
+	}
+	.admin-login{
+		margin: 0px 0px 0px 399px;
+		background: #151719;
+		height: 600px;
+		width: 600px;
+		position: fixed;
+		
+	}
+	.admin_dash table tr td{
+		font-family: sans-serif;
+		font-weight: bold;
+		font-size: 18px;
+		color: #ffffff;
+	}
+	.admin_dash input[type = "text"]{
+		background: transparent;
+		outline: none;
+		height: 30px;
+		color: #fff;
+		font-size: 18px;
+		margin: 5px 0px 5px 5px;
+		width: 124%;
+	} 
+	.admin_dash input[type = "password"]{
+		background: transparent;
+		outline: none;
+		height: 30px;
+		color: #fff;
+		font-size: 18px;
+		margin: 5px 0px 5px 5px;
+		width: 124%;
+	} 
+	.admin_sub{
+		margin: 0px 0px 0px 70px;
+	}
+	.admin_dash input[type="submit"]{
+		font-weight: bold;
+		background: #00bfff;
+		color: #fff;
+		font-size: 30px;
+	}
+	.admin_dash input[type="reset"]{
+		margin: 0px 0px 0px 123px;
+		font-weight: bold;
+		background: #00bfff;
+		color: #fff;
+		font-size: 30px;
+	}
